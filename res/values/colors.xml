@@ -15,7 +15,6 @@
     limitations under the License.
 -->
 <resources>
-    <color name="ic_launcher_background">#477B4A</color>
 
     <color name="primary_color">@*android:color/system_accent1_600</color>
     <color name="permission_check_activity_background">@color/primary_color</color>
