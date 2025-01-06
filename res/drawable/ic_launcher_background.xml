@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2025 The LibreMobileOS Foundation
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <path
+      android:pathData="M0,0l108,0l0,108l-108,0z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="m54,66.25c7.04,0 12.75,-5.48 12.75,-12.25 0,-6.77 -5.71,-12.25 -12.75,-12.25 -7.04,0 -12.75,5.48 -12.75,12.25 0,6.77 5.71,12.25 12.75,12.25zM50.12,57.7c-1.02,-0.98 -1.6,-2.32 -1.6,-3.71l10.93,0c0,1.39 -0.58,2.73 -1.6,3.71 -1.02,0.98 -2.41,1.54 -3.86,1.54 -1.45,0 -2.84,-0.55 -3.86,-1.54z"
+      android:fillColor="#254055"
+      android:fillType="evenOdd"/>
+</vector>
